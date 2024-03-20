@@ -14,8 +14,6 @@ Sou um entusiasta da tecnologia com experiência em Python e um pouco de C#. Ten
   <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />
-</div>
 
 ## 📫 Conecte-se comigo
 <div align="center">
