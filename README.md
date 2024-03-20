@@ -2,10 +2,10 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-## Hi there, I'm Caio Lennon 👋
-I'm a passionate technology enthusiast with experience in Python and a bit of C#. I have a dream to excel in this fantastic world, constantly learning new technologies and honing my skills. I'm currently diving into C# and exploring various database management techniques.
+## Olá, eu sou Caio Lennon 👋
+Sou um entusiasta da tecnologia com experiência em Python e um pouco de C#. Tenho o sonho de me destacar nesse mundo fantástico, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou me aprofundando em C# e explorando diferentes técnicas de gerenciamento de banco de dados.
 
-### 🌟 My Skill Set
+### 🌟 Minhas Habilidades
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />
@@ -19,7 +19,7 @@ I'm a passionate technology enthusiast with experience in Python and a bit of C#
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />
 </div>
 
-## 📫 Connect with me
+## 📫 Conecte-se comigo
 <div align="center">
   <a href="https://linkedin.com/in/CaioVandermuren" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
@@ -29,12 +29,12 @@ I'm a passionate technology enthusiast with experience in Python and a bit of C#
   </a>
 </div>
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FakeDoVander&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 
-## 📚 Recent Blog Posts
+## 📚 Últimas Postagens no Blog
 <div align="center">
   <a href="https://github.com/FakeDoVander" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
@@ -47,4 +47,4 @@ I'm a passionate technology enthusiast with experience in Python and a bit of C#
   </a>
 </div>
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a></div>
+<div align="center">Gerado usando <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a></div>
