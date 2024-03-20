@@ -33,18 +33,3 @@ Sou um entusiasta da tecnologia com experiência em Python e um pouco de C#. Ten
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FakeDoVander&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
-
-## 📚 Últimas Postagens no Blog
-<div align="center">
-  <a href="https://github.com/FakeDoVander" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/CaioVandermuren" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/caiolennon_dev" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-  </a>
-</div>
-
-<div align="center">Gerado usando <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a></div>
