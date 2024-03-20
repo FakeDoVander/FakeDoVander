@@ -17,7 +17,7 @@ Sou um entusiasta da tecnologia com experiência em Python e um pouco de C#. Ten
 
 ## 📫 Conecte-se comigo
 <div align="center">
-  <a href="https://linkedin.com/in/CaioVandermuren" target="_blank">
+  <a href="https://www.linkedin.com/in/caio-lennon-vandermuren-3990a5290/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
   <a href="https://instagram.com/caiolennon_dev" target="_blank">
