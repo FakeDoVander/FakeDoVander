@@ -11,14 +11,16 @@
     </div>
   </div>
   <div class="center skills">
-    <h2>🌟 Minhas Habilidades</h2>
-    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" />
-    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="80" />
-    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="80" />
-    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" />
-    <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="80" />
-    <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="80" />
-    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="80" />
+    <div align="center">
+      <h2>🌟 Minhas Habilidades</h2>
+      <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+    </div>
   </div>
   <div class="center social-links">
     <h2>📫 Conecte-se comigo</h2>
