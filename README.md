@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
 
 ## Olá, eu sou Caio Lennon 👋
-</div>
 Sou um entusiasta da tecnologia com experiência em Python e um pouco de C#. Tenho o sonho de me destacar nesse mundo fantástico, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou me aprofundando em C# e explorando diferentes técnicas de gerenciamento de banco de dados.
 
 <div align="center">
