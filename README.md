@@ -21,7 +21,7 @@ Sou um entusiasta da tecnologia com experiência em Python e um pouco de C#. Ten
 ## 📫 Conecte-se comigo
 <div align="center">
   <a href="https://www.linkedin.com/in/caio-lennon-vandermuren-3990a5290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 50px; height: 60px;"/>
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="height: 600px;"/>
   </a>
   <a href="https://instagram.com/caiolennon_dev" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 50px; height: 60px;"/>
