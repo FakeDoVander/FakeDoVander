@@ -30,7 +30,7 @@
     <a href="https://instagram.com/caiolennon_dev" target="_blank">
       <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
     </a>
-    <a href="https://wa.me/SEUNUMERODETELEFONE" target="_blank">
+    <a href="https://wa.me/28999656048E" target="_blank">
       <img src="https://img.shields.io/badge/whatsapp-%25C2%25A7A%2343D854.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
     </a>
   </div>
