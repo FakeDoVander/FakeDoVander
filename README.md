@@ -10,13 +10,13 @@ Sou um entusiasta da tecnologia com experiência em Python e um pouco de C#. Ten
 ## 🌟 Minhas Habilidades
 </div>
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" />
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="55" />
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="55" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="55" />
-  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="55" />
-  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="55" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="55" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" />
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="80" />
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="80" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" />
+  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="80" />
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="80" />
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="80" />
 
 ## 📫 Conecte-se comigo
 <div align="center">
