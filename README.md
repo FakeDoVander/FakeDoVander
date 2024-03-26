@@ -5,8 +5,8 @@
 ## Olá, eu sou Caio Lennon 👋
 Sou um entusiasta da tecnologia com experiência em Python e um pouco de C#. Tenho o sonho de me destacar nesse mundo fantástico, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou me aprofundando em C# e explorando diferentes técnicas de gerenciamento de banco de dados.
 
+  ## 🌟 Minhas Habilidades</p>
 <div align="center">
-  <p>🌟 Minhas Habilidades</p>
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
