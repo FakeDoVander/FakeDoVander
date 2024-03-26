@@ -30,5 +30,5 @@ Sou um entusiasta da tecnologia com experiência em Python e um pouco de C#. Ten
 
 ## 📈 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FakeDoVander&show_icons=true&count_private=true&hide_border=true" align="center" style="height: 600px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FakeDoVander&show_icons=true&count_private=true&hide_border=true" align="center" style="height: 300px;"/>
 </div>
