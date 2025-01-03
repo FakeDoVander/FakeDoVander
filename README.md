@@ -1,6 +1,10 @@
 # Olá, eu sou Caio Lennon 👋
 
-Sou um entusiasta da tecnologia com experiência em **Python** e explorando novas habilidades em **C#**. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou me aprofundando em C# e técnicas de gerenciamento de banco de dados.
+Sou estudante de **Sistemas de Informação**, apaixonado por tecnologia e desenvolvimento. Tenho experiência em **Python**, **HTML** e **CSS**, e atualmente estou explorando o mundo de **Inteligência Artificial** e aprimorando minhas habilidades em **gerenciamento de banco de dados**.  
+
+Além disso, trabalho como estagiário em uma loja de manutenção e vendas de acessórios para celulares, onde desenvolvo habilidades técnicas e de atendimento ao cliente. Também sou cofundador da **Level Fantasy Studios (LFS)**, um projeto que busca revolucionar o gerenciamento de eventos de **eSports**, do planejamento à execução.  
+
+Adoro aprender novas tecnologias e criar soluções práticas para problemas do dia a dia, com o sonho de desenvolver ferramentas e aplicativos que facilitem a vida das pessoas e empresas.  
 
 ---
 
@@ -11,9 +15,6 @@ Sou um entusiasta da tecnologia com experiência em **Python** e explorando nova
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
 </div>
 
 ---
